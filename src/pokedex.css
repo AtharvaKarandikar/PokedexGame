@@ -1,0 +1,11 @@
+.Pokedex-card{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Winner{
+    color : green;
+}
+.Loser{
+    color : red;
+}

@@ -1,0 +1,16 @@
+.Pokecard{
+    max-height: 350px;
+    box-shadow: 7px 10px 12px 15px rgba(0, 0, 0, 0.5) ;
+    width: 300px;
+    padding: 1px;
+    margin: 1rem;
+    background-color: white;
+    border-radius: 5px;
+}
+.Pokecard-data { 
+    font-size: 80%;
+}
+img{
+    min-height: fit-content;
+    min-width: none;font: inherit;
+}
